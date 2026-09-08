@@ -8,7 +8,7 @@ export const PERSONAL_INFO = {
   academicStatus: '3rd-semester B.Tech Artificial Intelligence & Data Science student at REVA University',
   university: 'REVA University',
   degree: 'B.Tech — AI & Data Science',
-  timeline: '2023 - 2027',
+  timeline: '2025 - 2029',
   standing: '3rd Semester (Pursuing)',
   location: 'Bangalore, Karnataka, India',
   email: 'akshatarc3030@gmail.com',
